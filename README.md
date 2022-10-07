@@ -1,6 +1,6 @@
 # Hiya! I'm [Jean Carlos](https://www.linkedin.com/in/jajayerdis/) 👋
 
-IT Security Intern at [CITGO](https://www.citgo.com/) and Cyber Security undergrad at [Lone Star College System](https://www.lonestar.edu/index2.htm).
+IT Security Intern at [CITGO](https://www.citgo.com/) and Cyber Security undergrad at [Lone Star](https://www.lonestar.edu/index2.htm).
 
 🌱 I’m Currently Learning About
 - Practical Malware Analysis & Triage 
