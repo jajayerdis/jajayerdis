@@ -3,7 +3,7 @@
 IT Security Intern at [CITGO](https://www.citgo.com/) and Cyber Security undergrad at [Lone Star](https://www.lonestar.edu/index2.htm).
 
 🌱 I’m Currently Learning About
-- Practical Malware Analysis & Triage 
+- Using [REMnux](https://remnux.org/) and [flare-vm](https://github.com/mandiant/flare-vm) for practical malware analysis & triage 
   
 🔎 What I'm Interested About
 - Active Defense & Cyber Deception
