@@ -1,4 +1,4 @@
-👋 Hiya! I'm Jean Carlos 😋
+#👋 Hiya! I'm [Jean Carlos] (https://www.linkedin.com/in/jajayerdis/) 😋
 
 IT Security Intern at CITGO and Cyber Security undergrad at Lone Star College System.
 
