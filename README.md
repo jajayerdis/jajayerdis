@@ -3,7 +3,7 @@
 ### IT Security Intern at [CITGO](https://www.citgo.com/) and senior Cyber Security undergrad at [Lone Star College](https://www.lonestar.edu/index2.htm).
 
 ### 🌱 I’m Currently Learning About
-- Leveraging Terraform (https://www.terraform.io),[REMnux](https://remnux.org/) and [flare-vm](https://github.com/mandiant/flare-vm) for a rapid-deployable cloud malware analysis setup
+- Leveraging [Terraform](https://www.terraform.io), [REMnux](https://remnux.org/) and [flare-vm](https://github.com/mandiant/flare-vm) to create a rapid-deployable cloud malware analysis setup
   
 ### 🔎 What I'm Interested About
 - Active Defense & Cyber Deception
