@@ -1,6 +1,6 @@
-# Hiya! I'm [Jean Carlos](https://www.linkedin.com/in/jajayerdis/) 👋
+# Hiya! I'm [Jean](https://www.linkedin.com/in/jajayerdis/) 👋
 
-### IT Security Intern at [CITGO](https://www.citgo.com/) and senior Cyber Security undergrad at [Lone Star College](https://www.lonestar.edu/index2.htm).
+### Born to work on a farm, forced to learn Intune administration with a security focus.
 
 ### 🌱 I’m Currently Learning About
 - Leveraging [Terraform](https://www.terraform.io), [REMnux](https://remnux.org/) and [flare-vm](https://github.com/mandiant/flare-vm) to create a rapid-deployable cloud malware analysis setup
