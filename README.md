@@ -1,6 +1,6 @@
 # Hiya! I'm [Jean](https://www.linkedin.com/in/jajayerdis/) 👋
 
-### Born to work on a farm, forced to learn Intune administration with a security focus.
+### Cyber security analyst with expertise in Microsoft Security suite and Endpoint Administration via Intune (Unfortunately)
 
 ### 🌱 I’m Currently Learning About
 - Leveraging [Terraform](https://www.terraform.io), [REMnux](https://remnux.org/) and [flare-vm](https://github.com/mandiant/flare-vm) to create a rapid-deployable cloud malware analysis setup
